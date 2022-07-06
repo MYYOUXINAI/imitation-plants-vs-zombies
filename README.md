@@ -9,15 +9,10 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  使用cocos创建一个项目，将classes、resource中的文件替换过去
+1.  将classes文件中的所有添加到项目当中
 
-#### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
